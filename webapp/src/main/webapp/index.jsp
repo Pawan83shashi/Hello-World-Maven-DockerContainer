@@ -1,6 +1,3 @@
 <h1> Hello, Welcome to Anshuman Technologies !!! </h1>
-<h2> Deploying on Tomcat server </h2>
-<h3> Testing the automatic pipelines</h3>
-<h3>Testing One done</h3>
-<h3> Testing three done </h3>
-<h3> Testing deployment through ansible to tomcat server latest</h3>
+<h2> Creating webapp.war file using maven and deploye the files on docker </h2>
+<h3> Running web application using tomcat on docker container </h3>
